@@ -5,12 +5,13 @@ main {
     max-width: 840px;
 }
 Aside {
-    width:20cm;
-    margin:1cm;
-    border:1px;
+    width:20rem;
+    margin:1rem;
+    border:1px solid rgb(0 0 / 0.2); /* 1 */
     padding:1cm;
-    background-color:#eee;
-    color:#333;
+    background-color:#eeee;
+    color:black;
+    text-align: center;
 
 }
 Aside img {
@@ -27,6 +28,6 @@ p{padding: 0%;}
 
 footer {
     margin-top: 15px;
-    border-top:1px solid #000;
+    border-top:1px solid #000000;
     text-align: center; 
 }
